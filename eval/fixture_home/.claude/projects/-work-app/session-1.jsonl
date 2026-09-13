@@ -1,0 +1,5 @@
+{"type": "user", "timestamp": "2026-09-11T22:15:08.677035Z", "message": {"role": "user", "content": "<command-message>pr-writer</command-message>\n<command-name>/pr-writer</command-name>"}}
+{"type": "assistant", "timestamp": "2026-09-11T22:15:08.677035Z", "message": {"role": "assistant", "content": [{"type": "tool_use", "name": "Skill", "input": {"skill": "pr-writer"}}]}}
+{"type": "assistant", "timestamp": "2026-09-10T22:15:08.677035Z", "message": {"role": "assistant", "content": [{"type": "tool_use", "name": "mcp__issues__list_issues", "input": {"q": "open"}}]}}
+{"type": "attachment", "timestamp": "2026-09-11T22:15:08.677035Z", "rendered": [{"content": "<system-reminder>\nThe following skills are available for use with the Skill tool:\n\n- deploy-notes: ... say \"deploy notes\" or /deploy-notes\n- db-migrate: ...\n- legacy-tools:old-linter: ...\n</system-reminder>"}]}
+{"type": "user", "timestamp": "2026-07-29T22:15:08.677035Z", "message": {"role": "user", "content": "<command-name>/deploy-notes</command-name>"}}

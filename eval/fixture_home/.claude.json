@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "design": {"type": "http", "url": "https://mcp.design.example.com/mcp?token=0123456789abcdef0123456789abcdef"},
+    "issues": {"type": "http", "url": "https://mcp.issues.example.com/sse"}
+  },
+  "projects": {}
+}

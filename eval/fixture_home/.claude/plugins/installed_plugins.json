@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "plugins": {
+    "legacy-tools@mkt": [
+      {"scope": "user", "installPath": "__FIXTURE__/.claude/plugins/cache/mkt/legacy-tools/0.1.0", "version": "0.1.0"}
+    ]
+  }
+}

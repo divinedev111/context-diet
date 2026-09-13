@@ -1,0 +1,6 @@
+{
+  "model": "opus",
+  "enabledPlugins": {
+    "legacy-tools@mkt": true
+  }
+}
